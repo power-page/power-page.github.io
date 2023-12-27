@@ -1,5 +1,18 @@
-# PowerPage - Innovative Web Design and App Development
 
+<p align="center">
+  <p align="center">
+    <img src="https://avatars3.githubusercontent.com/u/135002046?s=200&v=4" height="100" alt="Power Page" />
+  </p>
+  <h3 align="center">
+   Power Page
+  </h3>
+  <p align="center">
+   Innovative Web Design and App Development
+  </p>
+</p>
+
+ 
+ 
 Welcome to PowerPage, a leading brand under Senior Blockchain, specializing in web design and application development across various platforms. Our team excels in delivering high-quality services and leveraging cutting-edge technologies in the field of programming.
 
 ## About Us
